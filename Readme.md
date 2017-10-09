@@ -4,5 +4,5 @@
 1. CSS
 1. GIT
 1. Command Line
-    1. Nana text editor
+    1. Nano text editor
 1. Markdown Syntax
